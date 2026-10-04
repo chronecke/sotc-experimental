@@ -67,6 +67,7 @@ export class SotCActor extends Actor {
       blunt_stagger_affinity: Number(system.affinities.stagger_blunt),
       null_light_regen: false,
       null_speed_dice: false,
+      null_power: false,
       reset_stagger: false
     };
 
